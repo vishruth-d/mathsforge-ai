@@ -13,10 +13,6 @@
 - 🎨 **Modern UI** - Sleek, dark-themed interface with custom cursor
 - 📦 **ZIP Downloads** - Download questions and mark schemes as separate PDFs
 
-## Screenshots
-
-*Coming soon*
-
 ## Installation
 
 ### Prerequisites
