@@ -1,4 +1,4 @@
-# 🔥 MathsForge AI
+# MathsForge AI
 
 **AI-powered GCSE Maths worksheet generator** - Create customised homework worksheets from Edexcel past papers and custom resources with intelligent topic detection.
 
