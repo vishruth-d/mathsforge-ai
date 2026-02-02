@@ -1,0 +1,21 @@
+# MathsForge AI - Python Dependencies
+
+# PDF Processing
+pypdf>=3.17.0
+pypdfium2>=4.0.0
+pdfplumber>=0.10.0
+
+# OCR (requires Tesseract system install: brew install tesseract)
+pytesseract>=0.3.10
+opencv-python>=4.8.0
+Pillow>=10.0.0
+
+# Image processing
+numpy>=1.24.0
+
+# Web scraping (optional, for paper downloads)
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+
+# CLI formatting (optional)
+rich>=13.0.0

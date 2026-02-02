@@ -1,0 +1,61 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+env/
+.venv/
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Project specific - PDFs (large files, copyright)
+papers/*.pdf
+markschemes/*.pdf
+training/**/*.pdf
+outputs/*.pdf
+homework_temp/
+
+# Keep folder structure but ignore PDFs
+!papers/.gitkeep
+!markschemes/.gitkeep
+!training/**/.gitkeep
+!outputs/.gitkeep
+
+# Learned data (regenerate locally)
+learned_keywords.json
+strict_keywords_preview.py
+*.backup
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Config with secrets (if any)
+.env
+config.local.py
